@@ -32,7 +32,7 @@ require (
 	github.com/containerd/containerd v1.7.5 // indirect
 	github.com/containerd/continuity v0.4.2 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
-	github.com/cyphar/filepath-securejoin v0.2.3 // indirect
+	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker v24.0.6+incompatible // indirect
@@ -60,7 +60,7 @@ require (
 	github.com/muhlemmer/gu v0.3.1 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.1.0-rc4 // indirect
-	github.com/opencontainers/runc v1.1.9 // indirect
+	github.com/opencontainers/runc v1.1.12 // indirect
 	github.com/opencontainers/runtime-spec v1.1.0 // indirect
 	github.com/opencontainers/umoci v0.4.8-0.20211009121349-9c76304c034d // indirect
 	github.com/pborman/uuid v1.2.1 // indirect
